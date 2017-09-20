@@ -1,0 +1,22 @@
+[I 04:20:51.799 NotebookApp] Serving notebooks from local directory: /workspace/Kwon
+[I 04:20:51.800 NotebookApp] 0 active kernels 
+[I 04:20:51.800 NotebookApp] The Jupyter Notebook is running at: http://0.0.0.0:80/?token=7028a56068f9269d91c59043d4bf8c562a213cee5d4f0023
+[I 04:20:51.800 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 04:20:51.800 NotebookApp] No web browser found: could not locate runnable browser.
+[C 04:20:51.800 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://0.0.0.0:80/?token=7028a56068f9269d91c59043d4bf8c562a213cee5d4f0023
+[I 04:20:56.076 NotebookApp] 302 GET /?token=7028a56068f9269d91c59043d4bf8c562a213cee5d4f0023 (172.17.0.1) 0.78ms
+[W 04:23:16.208 NotebookApp] Unreadable Notebook: /workspace/Kwon/test.ipynb NotJSONError("Notebook does not appear to be JSON: ''...",)
+[W 04:23:16.209 NotebookApp] 400 GET /api/contents/test.ipynb?type=notebook&_=1505881395235 (172.17.0.1) 1.47ms referer=http://study-kwon.run.goorm.io/notebooks/test.ipynb
+[W 04:23:16.970 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20170920042050 (172.17.0.1) 35.02ms referer=http://study-kwon.run.goorm.io/notebooks/test.ipynb
+[I 04:26:49.707 NotebookApp] Creating new notebook in 
+[W 04:26:50.705 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20170920042050 (172.17.0.1) 3.40ms referer=http://study-kwon.run.goorm.io/notebooks/Untitled1.ipynb?kernel_name=python3
+[I 04:26:50.931 NotebookApp] Kernel started: 86586adc-aef8-4f22-b891-af892722ccfd
+[I 04:26:53.613 NotebookApp] Adapting to protocol v5.1 for kernel 86586adc-aef8-4f22-b891-af892722ccfd
+[I 04:28:50.946 NotebookApp] Saving file at /Untitled1.ipynb
+[I 04:30:50.905 NotebookApp] Saving file at /Untitled1.ipynb
+[I 04:32:51.039 NotebookApp] Saving file at /study-1.ipynb
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
